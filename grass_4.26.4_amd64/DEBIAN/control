@@ -1,0 +1,9 @@
+Package: grass
+Version: 4.26.4
+Architecture: amd64
+Installed-Size: 25927
+Maintainer: you
+Priority: optional
+Depends: libayatana-appindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Description: (none)
+ (none)
